@@ -1,0 +1,11 @@
+@media ( max-width: 767px ) {
+    body {
+        font-size: 14px;
+    }
+    nav ul {
+        flex-direction: column;
+    }
+    nav ul li {
+        margin: 5px 0;
+    }
+}
