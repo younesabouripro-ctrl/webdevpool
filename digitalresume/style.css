@@ -1,0 +1,61 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 10em;
+}
+.skexperience {
+    display: flex;
+    flex-wrap: column;
+    gap: 5px;
+}
+.intstu {
+    display: flex;
+    flex-wrap: column;
+    gap: 5px;
+}
+section  {
+flex: 1 1 calc(50% - 5px);
+margin: 10px;
+padding: 10px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #b8e1e4;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+footer {
+    padding: 10px;
+    background: #90b2f0;
+    color: #fff;
+    width: 100%;
+    bottom: 0;
+}
+.profile {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 10em;
+}
