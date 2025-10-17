@@ -52,10 +52,3 @@ footer {
     width: 100%;
     bottom: 0;
 }
-.profile {
-    text-align: center;
-    display: flex;
-    align-items: center;
-    list-style-type: none;
-    gap: 10em;
-}
